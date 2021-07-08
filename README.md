@@ -1,5 +1,5 @@
-# javascript-algorithms-and-data-structures-projects
+# FreeCodeCamp final projects
 
-final projects to claim my certification
+## These are my final projects that guaranteed me the right to receive my 300-hour Javascript Cerification :D
 
 https://www.freecodecamp.org/
